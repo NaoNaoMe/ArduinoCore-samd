@@ -8,11 +8,20 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
+		DebugCC|ARM = DebugCC|ARM
+		DebugMkr1000|ARM = DebugMkr1000|ARM
+		DebugZero|ARM = DebugZero|ARM
 		Release|ARM = Release|ARM
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|ARM.ActiveCfg = Debug|ARM
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|ARM.Build.0 = Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.DebugCC|ARM.ActiveCfg = DebugCC|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.DebugCC|ARM.Build.0 = DebugCC|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.DebugMkr1000|ARM.ActiveCfg = DebugMkr1000|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.DebugMkr1000|ARM.Build.0 = DebugMkr1000|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.DebugZero|ARM.ActiveCfg = DebugZero|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.DebugZero|ARM.Build.0 = DebugZero|ARM
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|ARM.ActiveCfg = Release|ARM
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|ARM.Build.0 = Release|ARM
 	EndGlobalSection
